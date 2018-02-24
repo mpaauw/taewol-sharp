@@ -1,4 +1,4 @@
 language: csharp
-solution: ./cutter/cutter.sln
+solution: ./taewol-sharp/taewol-sharp.sln
 notifications:
   email: false
