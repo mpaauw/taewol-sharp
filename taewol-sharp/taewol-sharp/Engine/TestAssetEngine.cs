@@ -7,7 +7,7 @@ using taewol_sharp.Util;
 
 namespace taewol_sharp.Engine
 {
-    public class TestAssetEngine<T>
+    public class TestAssetEngine
     {
         private Random rand = new Random();
         private int upperBoundValue = int.MaxValue;
